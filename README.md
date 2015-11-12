@@ -7,7 +7,7 @@ Cartesian Product
 For sets `A` and `B`, the [Cartesian product](https://en.wikipedia.org/wiki/Cartesian_product) `AxB` is the set of all ordered pairs `(a,b)` where `a` is an element of `A` and `b` is an element of `B`.
 
 <div class="equation" align="center" data-raw-text="" data-equation="eq:cartesian_product">
-	<img src="" alt="Equation for a Cartesian product.">
+	<img src="https://cdn.rawgit.com/compute-io/cartesian-product/b18fd81ceb2f312662e396315f00ae9f22640ff4/docs/img/eqn.svg" alt="Equation for a Cartesian product.">
 	<br>
 </div>
 
